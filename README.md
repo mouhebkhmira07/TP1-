@@ -27,29 +27,7 @@ I will provide them with photos in the repository
 
 IV. COURBES DE DENSITÉ
 ----------------------
-
-HUILE 15W40:
-Expérience 1 → densité = 0,837
-Expérience 2 → densité = 0,844  
-Moyenne → densité = 0,840
-Expérience 3 → densité = 0,880
-
-DÉTERGENT:
-Expérience 1 → densité = 1,056
-Expérience 2 → densité = 1,019
-Moyenne → densité = 1,035
-Expérience 3 → densité = 1,020
-
-LIQUIDE INCONNU:
-Expérience 1 → densité = 0,923
-Expérience 2 → densité = 0,999
-Moyenne → densité = 0,961
-
-Représentation graphique:
-[Exp1]---[Exp2]---[Moyenne]---[Exp3]
-  •         •         •           •    (Huile: 0.837→0.844→0.840→0.880)
-  •         •         •           •    (Détergent: 1.056→1.019→1.035→1.020)
-  •         •         •               (Liquide: 0.923→0.999→0.961)
+I will provide them in the python script
 
 V. CONCLUSION
 -------------
