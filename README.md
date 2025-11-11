@@ -23,11 +23,10 @@ II. MATÉRIELS UTILISÉS
 III. DONNÉES EXPÉRIMENTALES
 ---------------------------
 
-I will provide them with photos in the repository
+Je leur fournirai au projet
 
 IV. COURBES DE DENSITÉ
 ----------------------
-I will provide them in the python script
 
 V. CONCLUSION
 -------------
